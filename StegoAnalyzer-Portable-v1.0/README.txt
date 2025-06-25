@@ -48,5 +48,4 @@ For Windows users, consider using Windows Subsystem for Linux (WSL)
 for easier tool installation.
 
 Version: 1.0
-Author: AI Assistant
-License: MIT
+Built by: Claude 4 Sonnet
