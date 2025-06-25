@@ -34,5 +34,4 @@ Quick Start:
 3. Or use Analyze-File.bat for drag-and-drop analysis
 4. See README.txt for detailed instructions
 
-Contact: AI Assistant
 License: MIT
