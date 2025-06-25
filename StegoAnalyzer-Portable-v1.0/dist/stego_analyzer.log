@@ -1,0 +1,4 @@
+2025-06-25 22:03:21,488 - INFO - Starting analysis of: S:/Downloads/asphoto.jpg
+2025-06-25 22:03:21,494 - INFO - Available tools: {'zsteg': False, 'steghide': False, 'outguess': False, 'exiftool': False, 'binwalk': False, 'foremost': False, 'strings': False}
+2025-06-25 22:04:29,831 - INFO - Starting analysis of: S:/Downloads/20250620_110546.jpg
+2025-06-25 22:04:29,836 - INFO - Available tools: {'zsteg': False, 'steghide': False, 'outguess': False, 'exiftool': False, 'binwalk': False, 'foremost': False, 'strings': False}

@@ -1,0 +1,38 @@
+﻿Steganography Analyzer - Portable Version 1.0
+==============================================
+
+Build Date: 2025-06-25 22:02:42
+Platform: Windows x64
+Python Version: 3.13.3
+PyInstaller Version: 6.14.1
+
+Included Executables:
+- StegoAnalyzer-CLI.exe    (~10MB) - Command-line interface
+- StegoAnalyzer-GUI.exe    (~10MB) - Graphical interface
+
+Features:
+- Portable - no installation required
+- Self-contained - includes Python runtime
+- Supports multiple steganography tools
+- Both CLI and GUI interfaces
+- Batch file launchers for easy use
+
+External Tools Integration:
+- zsteg, steghide, outguess, exiftool
+- binwalk, foremost, strings
+- Tools not included - download separately
+
+System Requirements:
+- Windows 7/8/10/11 (64-bit)
+- No Python installation required
+- ~25MB disk space for application
+- Additional space for external tools
+
+Quick Start:
+1. Extract package to any folder
+2. Run Launch-GUI.bat for graphical interface
+3. Or use Analyze-File.bat for drag-and-drop analysis
+4. See README.txt for detailed instructions
+
+Contact: AI Assistant
+License: MIT

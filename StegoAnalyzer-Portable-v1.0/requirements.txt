@@ -1,0 +1,8 @@
+tkinter
+pillow
+exifread
+python-magic-bin
+subprocess32; python_version < '3.0'
+colorama
+argparse
+pathlib
